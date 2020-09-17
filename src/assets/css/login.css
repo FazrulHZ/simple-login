@@ -4,11 +4,26 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.bg-utama {
+    background-color: #800000;
+    /* background-color: #f5f5f5; */
+}
+
+.text-utama {
+    color: #800000;
+}
+
+hr.new {
+    border: 1px solid white;
+    /* border: 1px solid #800000; */
+}
+
 body {
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #f5f5f5;
+    background-color: #800000;
+    /* background-color: #f5f5f5; */
 }
 
 .form-signin {
